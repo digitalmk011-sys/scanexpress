@@ -1,2 +1,2 @@
-ScanExpress V1.5
-Câmera com faixa de captura, recorte editável, consulta ViaCEP por cidade/UF e rua, Sequence prevista. Configure cidade padrão (ex.: Maringá - PR). Consulta requer internet e não valida número. Confirme antes de salvar. Hospede index.html via HTTPS.
+ScanExpress V1.6
+Substitua index.html no GitHub. Zoom de 100–400% no recorte; modo mover foto e modo selecionar. Informe cidade e UF para consulta ViaCEP. Confirme sugestões antes de salvar.
