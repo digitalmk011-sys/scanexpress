@@ -1,1 +1,1 @@
-ScanExpress V1.3 — faixa horizontal, captura automática, rua e número obrigatórios, prazo de 20 segundos. HTTPS e internet para bibliotecas. Cidade padrão opcional. Confirme cada pacote. Teste em celular necessário. Sem rastreamento, duplicidade física exige confirmação manual.
+ScanExpress V1.4 — Fotografia com recorte manual. Envie index.html ao GitHub Pages. OCR e XLSX usam bibliotecas online. Teste no celular antes de uso operacional. Preserve a V1.3 como backup.
