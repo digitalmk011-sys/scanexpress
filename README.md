@@ -1,1 +1,1 @@
-ScanExpress V1.2 — scanner animado, limite de 45 segundos, campos separados e revisão manual. Bibliotecas CDN requerem internet. Testar no celular.
+ScanExpress V1.3 — faixa horizontal, captura automática, rua e número obrigatórios, prazo de 20 segundos. HTTPS e internet para bibliotecas. Cidade padrão opcional. Confirme cada pacote. Teste em celular necessário. Sem rastreamento, duplicidade física exige confirmação manual.
