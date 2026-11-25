@@ -1,1 +1,2 @@
-ScanExpress V1.8 — validação explícita, rotas multicípio no mesmo estado e editor em tela cheia. Requer HTTPS e internet. Substitua index.html. Teste no celular antes de uso operacional.
+ScanExpress V1.8.1
+Editor em tela cheia, zoom e deslocamento com dois dedos, recorte com um dedo. Substitua index.html no GitHub Pages.
