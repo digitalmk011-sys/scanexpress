@@ -1,1 +1,2 @@
-ScanExpress V1.4 — Fotografia com recorte manual. Envie index.html ao GitHub Pages. OCR e XLSX usam bibliotecas online. Teste no celular antes de uso operacional. Preserve a V1.3 como backup.
+ScanExpress V1.5
+Câmera com faixa de captura, recorte editável, consulta ViaCEP por cidade/UF e rua, Sequence prevista. Configure cidade padrão (ex.: Maringá - PR). Consulta requer internet e não valida número. Confirme antes de salvar. Hospede index.html via HTTPS.
